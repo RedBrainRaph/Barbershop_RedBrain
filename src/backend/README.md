@@ -46,4 +46,4 @@ export TELEGRAM_ADMIN_CHAT_ID="твой_id тг без ковычек"
 go run main.go telegram.go 
 ```
 
-**Готово!** Сервер запущен на http://localhost:8080
+**Готово!** Сервер запущен на `http://localhost:8080`
