@@ -20,5 +20,5 @@
 
 <!-- Картинка по центру размером 400x400 -->
 <p align="center">
-  <img src="images/logotip_v2.jpeg" alt="Логотип Барбершопа" width="400" height="400">
+  <img src="images/logo_v2.jpeg" alt="Логотип Барбершопа" width="400" height="400">
 </p>
